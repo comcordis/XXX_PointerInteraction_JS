@@ -1,0 +1,6 @@
+project:XXX_PointerInteraction_JS
+deployEnvironment:development
+checkout:master
+commitHash:32e9eca4f808ccc5ff557b96039fd249ef25c3c0
+timestamp:2015-04-13T09:45:00Z
+deployer:operations
